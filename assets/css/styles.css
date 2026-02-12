@@ -15,7 +15,7 @@
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #FF4D00;
+    background: #0EA5E9;
 }
 
 /* Base Utilities */
@@ -53,9 +53,9 @@ body {
 
 /* Text Selection */
 ::selection {
-    background: #FF4D00;
+    background: #0EA5E9;
     color: #fff;
-    text-shadow: 0 0 10px rgba(255, 77, 0, 0.5);
+    text-shadow: 0 0 10px rgba(14, 165, 233, 0.5);
 }
 
 /* Animations */
