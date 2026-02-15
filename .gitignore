@@ -14,12 +14,12 @@ ehthumbs.db
 
 # Dependencies
 node_modules/
-package-lock.json
 yarn.lock
 
 # Build
 dist/
 build/
+assets/css/output.css
 
 # Logs
 *.log
