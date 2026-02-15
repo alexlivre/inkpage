@@ -35,3 +35,8 @@ yarn-error.log*
 
 # Agent
 .agent/
+
+# Python & Utility Scripts
+__pycache__/
+*.pyc
+convert_webp.py
